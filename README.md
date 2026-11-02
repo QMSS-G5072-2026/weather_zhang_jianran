@@ -1,5 +1,7 @@
 # weather_jz4169
 
+[![ci-cd](https://github.com/QMSS-G5072-2026/weather_zhang_jianran/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/QMSS-G5072-2026/weather_zhang_jianran/actions/workflows/ci-cd.yml)
+
 A package for combining weather-related functions.
 
 ## Installation
