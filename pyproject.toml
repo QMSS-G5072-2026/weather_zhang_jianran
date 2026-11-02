@@ -1,6 +1,6 @@
 [project]
 name = "weather_jz4169"
-version = "0.1.0"
+version = "0.1.1"
 description = "A package for combining weather-related functions."
 readme = "README.md"
 authors = [{ name = "Jianran Zhang", email = "jz4169@columbia.edu" }]
